@@ -1,0 +1,6 @@
+fastq.file	mapping.file	output.dir	start	end	split	version
+./MiSeq.analysis/examples.fastq.info.txt	191008.CB4856.NS.map	1	25	TRUE	map
+./MiSeq.analysis/examples.fastq.info.txt	VC20019.JU1400.MIP.info.txt	191008.JU1400.NS.map	53	78	TRUE	abundance
+./MiSeq.analysis/examples.fastq.info.txt	VC20019.JU300.MIP.info.txt	191008.JU300.NS.map	79	87	TRUE	map
+./MiSeq.analysis/examples.fastq.info.txt	VC20019.JU360.MIP.info.txt	191008.JU360.NS.map	97	105	FALSE	abundance
+./MiSeq.analysis/examples.fastq.info.txt	VC20019.MY1.MIP.info.txt	191008.MY1.NS.map	133	150	TRUE	map

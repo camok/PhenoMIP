@@ -1,0 +1,4 @@
+Pool	data.file	output.dir	num.rep	num.exp	group.file	norm.strain	num.strains
+M1	M1.140508.organized.data.renamed.txt	M1.analysis	8	7	M1.180426.group.info.txt	VC20152	57
+M3	M3.140531.organized.data.renamed.txt	M3.analysis	10	6	M3.180426.group.info.txt	VC20019	57
+M5	M5.140606.organized.data.renamed.txt	M5.analysis	10	4	M5.180426.group.info.txt	VC20019	41

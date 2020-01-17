@@ -1,0 +1,4 @@
+barcode	exp.name	location	seqLocation	valLocation	seq.file.size	val.file.size
+TGACCTTG	HA-VC-R01-ERTM1-Map1	./MiSeq.analysis/191004_NextSeq/HA-VC-R01-ERTM1-Map1_190925_NextSeq.fastq.tar.gz	./MiSeq.analysis/191004_NextSeq/seqFiles/HA-VC-R01-ERTM1-Map1_190925_NextSeq.fastq.tar.gz	./MiSeq.analysis/191004_NextSeq/seqValues/HA-VC-R01-ERTM1-Map1_190925_NextSeq.fastq.tar.gz		
+AACGCGTA	HA-VC-R01-ERTM1-Map2	./MiSeq.analysis/191004_NextSeq/HA-VC-R01-ERTM1-Map2_190925_NextSeq.fastq.tar.gz	./MiSeq.analysis/191004_NextSeq/seqFiles/HA-VC-R01-ERTM1-Map2_190925_NextSeq.fastq.tar.gz	./MiSeq.analysis/191004_NextSeq/seqValues/HA-VC-R01-ERTM1-Map2_190925_NextSeq.fastq.tar.gz		
+TAATTACG	HA-VC-R01-ERTM1-Map3	./MiSeq.analysis/191004_NextSeq/HA-VC-R01-ERTM1-Map3_190925_NextSeq.fastq.tar.gz	./MiSeq.analysis/191004_NextSeq/seqFiles/HA-VC-R01-ERTM1-Map3_190925_NextSeq.fastq.tar.gz	./MiSeq.analysis/191004_NextSeq/seqValues/HA-VC-R01-ERTM1-Map3_190925_NextSeq.fastq.tar.gz		
